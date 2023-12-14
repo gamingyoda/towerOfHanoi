@@ -1,0 +1,16 @@
+How many disks? N : 1
+
+===<START>===
+
+  |   |   |  
+ +++  |   |  
+¯¯¯¯¯¯¯¯¯¯¯¯¯
+  A   B   C  
+
+Move the disc # 1 from A to C.
+
+  |   |   |  
+  |   |  +++ 
+¯¯¯¯¯¯¯¯¯¯¯¯¯
+  A   B   C  
+
